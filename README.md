@@ -1,19 +1,8 @@
----
-title: python爬虫下载恩智浦智能车竞赛技术报告
-date: 2020-04-01 13:12:08
-tags:
-- 目录
-- python
-- 爬虫
----
-
 # 一、目标
 
 新一届的全国大学生智能汽车竞赛开始了，想下载官网上的技术报告，看看大佬们在坐车时候的想法 ，然而官网的技术报告有点多，而且还没打包，得一个一个慢慢点击下载，下载速率太慢了，这不刚学了一下python爬虫吗，就想试试能不能使用python爬虫下载智能车竞赛官网的技术报告。
-[**python** 爬虫学习](https://editor.csdn.net/md/?articleId=105045725)参见我的这篇文章
+[**python** 爬虫学习](https://blog.csdn.net/weixin_42585316/article/details/105045725)参见我的这篇文章
 [另外我的博客上也有上传](https://thelnktears.github.io/2020/03/13/Python%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0/)
-
-<!--more-->
 
 # 二、目标分析
 
